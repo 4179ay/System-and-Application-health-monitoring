@@ -136,6 +136,3 @@ Install all project dependencies with:
 pip install -r requirements.txt
 ```
 
-## Submission Notes
-
-Generated log files and Python cache files are excluded through `.gitignore`. The project is intentionally kept simple and command-line based so both tasks can be demonstrated easily during a technical interview or assessment review.
